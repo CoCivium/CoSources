@@ -1,5 +1,6 @@
-# CoCarry Index (Alias)
-This is a compatibility alias.
-Canonical index: docs/hold/CoCarry/INDEX__LATEST.md
+# CoCarry HOLD Bundle (INDEX__LATEST)
 
-If your tooling expects this path, fetch this file to discover the canonical path above.
+- Classification: HOLD (do not publish externally without CoPrime clearance)
+- BundleZip: CoSources_CoCarry_HOLD_Bundle_20260127T041014Z.zip
+- BundleZipShaSidecar: CoSources_CoCarry_HOLD_Bundle_20260127T041014Z.zip.sha256
+- UpdatedUTC: 20260127T222705Z
