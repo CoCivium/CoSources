@@ -1,0 +1,19 @@
+{
+  "utc": "20260130T003320Z",
+  "repo": "CoCivium/CoSources",
+  "pack_name": "PACK__CoStacks__v0__20260130T003320Z",
+  "source_url": "https://raw.githubusercontent.com/CoCivium/CoBusMirror/c646d510514f9cfcfb24bd34e7340b1124c64374/docs/MasterPlan/Appendix/CoStacks/CoStacks__LATEST.md",
+  "files": [
+    {
+      "name": "CoStacks__LATEST.md",
+      "sha256": "f2818fb407be7bfaeaae7fddef46d023c967b513c8f8b35c56cad7163074010a"
+    },
+    {
+      "name": "SOURCE_URL.txt",
+      "sha256": "8f5539e8f3980e65f9410bcd455764a8191befd364c5afb972d5db7743a36e0e"
+    }
+  ],
+  "zip_file": "PACK__CoStacks__v0__20260130T003320Z.zip",
+  "zip_sha256": "7a5b1538e7d69e18c6a2c53e4acdf195d851567dfb384b2e0724c012dd555fd1",
+  "auth_fetch_method": "commit-sha-raw (source) + commit-sha-raw (pickup)"
+}
