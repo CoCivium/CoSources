@@ -1,0 +1,89 @@
+B31B8BB3EC6919EC6E8EDCF5A27C9F9B75BD414FF10D6C206BB544FEFC33B802
+{
+   "applicationVersion": "5.4.6.227",
+   "chromeSyncResetQueryRequested": false,
+   "chromeSyncResetQueryResult": false,
+   "clientID": "",
+   "clientType": "other",
+   "componentsUpdatePackageVersion": "147.0.5451",
+   "coreDllFileVersion": "0.0.0",
+   "cpu": "x64",
+   "dbSDKUpdatePackageVersion": "1.0.106891",
+   "detectionDateTime": "2026-01-31T16:11:11Z",
+   "fileSystem": "NTFS",
+   "id": "758cb6dc-febf-11f0-9115-78af082bb767",
+   "isLargePEEnabled": false,
+   "isUserAdmin": true,
+   "largePEMaxSize": 31457280,
+   "licenseState": "licensed",
+   "linkagePhaseComplete": false,
+   "loggedOnUserName": "System",
+   "machineID": "",
+   "os": "Windows 11 (Build 26220.7670)",
+   "schemaVersion": 24,
+   "sourceDetails": {
+      "type": "ae"
+   },
+   "threats": [
+      {
+         "ddsSigFileVersion": "",
+         "linkedTraces": [
+
+         ],
+         "mainTrace": {
+            "ImpersonationSid": "",
+            "aggressive_path": false,
+            "aggressive_timestamp": false,
+            "aggressive_zone": false,
+            "amsiAppImagePath": "",
+            "archiveMember": "",
+            "archiveMemberMD5": "",
+            "cleanAction": "block",
+            "cleanResult": "successful",
+            "cleanResultErrorCode": 0,
+            "cleanResultReason": "",
+            "cleanTime": "2026-01-31T16:11:11Z",
+            "dateOfCreation": "",
+            "dateOfModification": "",
+            "exploitData": {
+               "appDisplayName": "C:\\Program Files\\PowerShell\\7\\pwsh.exe",
+               "blockedFileName": "C:\\Users\\Chris\\HEAD:README.md",
+               "documentFileName": "",
+               "layerText": "APT Behavior Protection",
+               "protectionTechnique": "T1059 - Execution",
+               "url": ""
+            },
+            "generatedByPostCleanupAction": false,
+            "hubbleRequestErrorCode": 0,
+            "id": "75925c5e-febf-11f0-a387-78af082bb767",
+            "igExitCode": "",
+            "isPEFile": false,
+            "isPEFileValid": false,
+            "isReportOnly": false,
+            "isScript": false,
+            "isWhitelistedByAdsInfo": false,
+            "linkType": "none",
+            "objectMD5": "",
+            "objectPath": "",
+            "objectSha256": "",
+            "objectSize": -1,
+            "objectType": "exploit",
+            "originatingScriptMD5": "",
+            "originatingScriptSHA256": "",
+            "resolvedPath": "",
+            "rtpEventType": "other",
+            "uploadToBTOC": true
+         },
+         "ruleID": 392684,
+         "ruleString": "",
+         "rulesVersion": "0.0.0",
+         "srcEngineComponent": "unknown",
+         "srcEngineThreatNames": [
+
+         ],
+         "threatID": 522,
+         "threatName": "Exploit.T1059Execution"
+      }
+   ],
+   "threatsDetected": 1
+}

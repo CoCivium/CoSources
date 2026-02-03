@@ -1,0 +1,16 @@
+== C:\Program Files\Git\mingw64\bin\git.exe ==
+SigStatus=Valid
+Thumbprint=3EB14A3AEF84B7153E139397F0A49E2FAC662B0E
+Subject=CN=Johannes Schindelin, O=Johannes Schindelin, S=Nordrhein-Westfalen, C=DE
+Issuer=CN=Sectigo Public Code Signing CA R36, O=Sectigo Limited, C=GB
+NotAfter=05/05/2026 19:59:59
+Sha256=755D4896D35663D0FF08924F84507F35236B83D240635B512C519BF43CC71A87
+
+== C:\Program Files\Git\mingw64\libexec\git-core\git-remote-https.exe ==
+SigStatus=Valid
+Thumbprint=3EB14A3AEF84B7153E139397F0A49E2FAC662B0E
+Subject=CN=Johannes Schindelin, O=Johannes Schindelin, S=Nordrhein-Westfalen, C=DE
+Issuer=CN=Sectigo Public Code Signing CA R36, O=Sectigo Limited, C=GB
+NotAfter=05/05/2026 19:59:59
+Sha256=0A5B9D55A338D202F88044C36FE0FEB76CB57B68A4176798A80EDACC706A34B8
+
